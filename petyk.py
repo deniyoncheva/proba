@@ -5,3 +5,5 @@ class Petyk13:
 	def zdr(self):
 		self.name = input("Hi! What's your name?")
 		print("Welcome, ",self.name, "!")
+	def func_2(self):
+		print("dali shte stane tui?")
